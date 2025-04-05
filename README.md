@@ -50,8 +50,5 @@ The output will display the churn prediction for each customer, including:
 - Churn Probability
 - Churn Risk Level (High/Medium/Low)
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License.
+
