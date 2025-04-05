@@ -16,8 +16,8 @@ This project implements a customer churn prediction system using machine learnin
 ## Installation Instructions
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/KesavanandJS/churm_prediction.git
+   cd churm_prediction
    ```
 2. Create a virtual environment (optional but recommended):
    ```bash
